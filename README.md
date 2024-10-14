@@ -1,5 +1,5 @@
 <h1 align="center">hi im imallergictocats</h1>
-<img align="right" alt="nyancat" width="400" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"/>
+<img align="right" alt="nyancat" width="1000" src="https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Hx2CSDKjFf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hx2CSDKjFf" height="30" width="40" /></a>
