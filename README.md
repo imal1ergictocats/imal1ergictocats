@@ -1,8 +1,4 @@
 <h1 align="center">hi im imallergictocats</h1>
-<h1 align="center">            へ   ♡     ╱|、</h1>
-<h1 align="center">     ૮  -   ՛ )      (`   -  7</h1>
-<h1 align="center">       /   ⁻  ៸|       |、⁻〵</h1>
-<h1 align="center"> 乀 (ˍ, ل ل            じしˍ,)ノ</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
